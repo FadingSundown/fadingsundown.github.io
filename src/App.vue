@@ -24,12 +24,12 @@
 
 @font-face {
   font-family: 'PlayfairDisplay';
-  src: url('./assets/fonts/PlayfairDisplay-Regular.ttf') format('truetype');
+  src: url('../public/assets/fonts/PlayfairDisplay-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Dongle';
-  src: url('./assets/fonts/Dongle-Regular.ttf') format('truetype');
+  src: url('../public/assets/fonts/Dongle-Regular.ttf') format('truetype');
 }
 
 * {
