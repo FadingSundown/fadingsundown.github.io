@@ -41,12 +41,6 @@ const rows = [
       size: 6,
       image: 'photo_2022-01-27_23-54-05.jpg',
     }
-  ],
-  [
-    {
-      size: 12,
-      image: 'a42b34d1-ccff-4dea-8cd4-36cf07b8cc8f.png',
-    },
   ]
 ];
 </script>
