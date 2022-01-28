@@ -26,7 +26,7 @@ defineProps<{
                  :class="`col-md-${item.size} col-12`"
                  :to="item.link || self">
       <template v-if="item.image">
-        <q-img :src="`/src/assets/${item.image}`" class="tile">
+        <q-img :src="`/assets/${item.image}`" class="tile">
           <div v-if="item.caption" class="absolute-full text-subtitle2 flex flex-center caption">
             {{ item.caption }}
           </div>

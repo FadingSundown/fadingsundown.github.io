@@ -2,7 +2,7 @@
   <q-page padding class="container">
     <div class="row">
       <div class="col-md-6 col-12">
-        <q-img src="/src/assets/3d56107a-41f1-43e0-9f0a-8bed0a0e536a.jpg" height="400px" />
+        <q-img src="/assets/3d56107a-41f1-43e0-9f0a-8bed0a0e536a.jpg" height="400px" />
       </div>
       <div class="col-md-6 col-12 text-center q-px-lg q-pt-lg">
         <p>
@@ -28,7 +28,7 @@
         <h3 class="text-center">Mijn contactgegevens staan op mijn CV. Ik kijk (letterlijk) uit naar je bericht!</h3>
       </div>
       <div class="col-md-3 col-12 text-center">
-        <q-img src="/src/assets/d5a8f6b0-2cce-421e-b6bd-efb1be3a11c3.png" width="313px" />
+        <q-img src="/assets/d5a8f6b0-2cce-421e-b6bd-efb1be3a11c3.png" width="313px" />
       </div>
     </div>
   </q-page>
