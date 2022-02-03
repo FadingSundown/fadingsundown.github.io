@@ -22,12 +22,12 @@ const rows = [
       image: 'beeldbewerking/ad-social-600x600-LRO-NL.png',
     },
   ],
-    [
-      {
-        size: 12,
-        image: 'beeldbewerking/BERG Advertentie - CBMC - 2018_MEI.png',
-      },
-    ]
+  [
+    {
+      size: 12,
+      image: 'beeldbewerking/BERG Advertentie - CBMC - 2018_MEI.png',
+    },
+  ]
 ];
 </script>
 
