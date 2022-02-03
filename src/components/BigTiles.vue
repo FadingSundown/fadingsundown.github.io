@@ -20,10 +20,10 @@ defineProps<{
 </script>
 
 <template>
-  <div v-for="(row, rowIndex) in rows" :key="rowIndex" class="row q-col-gutter-md q-mb-md">
+  <div v-for="(row, rowIndex) in rows" :key="rowIndex" class="row justify-evenly q-col-gutter-md q-mb-md">
     <router-link v-for="(item, itemIndex) in row"
                  :key="itemIndex"
-                 :class="`col-md-${item.size} col-12`"
+                 :class="`col-md-${item.size} col-md-${item.size} col-12`"
                  :to="item.link || self">
       <template v-if="item.image">
         <q-img :src="`/assets/${item.image}`" class="tile">
@@ -32,7 +32,9 @@ defineProps<{
           </div>
         </q-img>
       </template>
-      <div v-if="item.youtube" class="text q-py-sm q-px-lg text-center" v-html="item.youtube"></div>
+      <div v-if="item.youtube" class="text q-py-sm q-px-lg text-center">
+        <q-video :src="item.youtube" :ratio="16/9" />
+      </div>
       <div v-if="item.text" class="text q-py-sm q-px-lg text-center" v-html="item.text"></div>
     </router-link>
 

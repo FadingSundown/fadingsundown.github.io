@@ -24,7 +24,7 @@ const rows = [
   ],
   [
     {
-      size: 12,
+      size: 6,
       image: 'beeldbewerking/BERG Advertentie - CBMC - 2018_MEI.png',
     },
   ]
