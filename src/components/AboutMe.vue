@@ -6,19 +6,15 @@
       </div>
       <div class="col-md-6 col-12 text-center q-px-lg q-pt-lg">
         <p>
-          Wie ben ik? De tekst bovenaan de website is denk ik een subtiele indicatie — ik ben Melissa! 25 jaar jong. In juni 2019 behaalde ik mijn diploma Communicatie en Multimedia Design bij de HAN in Arnhem. Kort daarna ging ik aan de slag bij mijn huidige werkgever.
+          Welkom op mijn website! Ik ben Melissa, een jonge professional in multimedia en communicatie ontwerp. 
+Ik ben bij mij vorige werkgever veel bezig geweest met het produceren van  online en offline toepassingen zoals (vak)bladen, folders, krantenartikelen, online magazines, websites en korte video’s.
+Naast het maken van designs vind je mij in mijn vrije tijd vaak bezig met boulderen, gamen, schrijven, tekenen en fotografie. Ook maak ik graag wandelingen op de heide en het bos met mijn honden.
         </p>
 
         <p>
-          De eerste drie maanden zat ik op kantoor, en toen was daar ineens de pandemie. Sinds maart 2020 ben ik, met veel plezier, aan het thuiswerken. Mijn bureau heb ik fijn ingericht en met mijn schermen (waarvan 1 een tekenscherm!), kan ik altijd aan de slag met mijn werk of mijn hobby's.<br />
-          Mijn hobby's zijn onder andere tekenen, schrijven, videobewerking en soms een beetje fotografie. Verder wandel ik met mijn twee honden vaak op de heide.<br />
-          Omdat ik in Ede woon is dit om de hoek. Misschien heb je mijn hondjes al gezien in mijn portfolio. Hint, ze staan samen op de foto :).
-        </p>
-
-        <p>
-          Hopelijk heb je een beetje een (goede!) indruk gekregen van wie ik ben.<br />
-          Je zit natuurlijk niet voor je plezier op mijn portfolio te kijken, <span class="text-small">of wel, ik oordeel niet.</span><br />
-          Mocht je enthousiast zijn geworden en het je nòg leuker lijken om mij in het echt te spreken of te ontmoeten, dan kan je mij altijd een mailtje sturen of bellen!
+         Ik ben gepassioneerd over het vertellen van verhalen en het creëren van ontwerpen die mensen persoonlijk aanspreken. Voor mij is er niets leuker dan het zien van hoe een goed ontwerp mensen kan inspireren en aanzetten tot actie.
+Als jonge professional sta ik altijd klaar om te leren en te groeien in mijn vakgebied. Ik zoek naar nieuwe uitdagingen en kansen om mijn kennis en expertise uit te breiden.
+Kijk gerust rond op mijn website en neem gerust contact met mij op als je vragen hebt of als je geïnteresseerd bent in een samenwerking. Ik kan niet wachten om van je te horen!
         </p>
 
       </div>
